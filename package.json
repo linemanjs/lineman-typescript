@@ -1,0 +1,38 @@
+{
+  "name": "lineman-typescript",
+  "description": "TypeScript plugin for Lineman, using grunt-typescript",
+  "version": "0.0.1",
+  "homepage": "https://github.com/linemanjs/lineman-typescript",
+  "author": {
+    "name": "Jason Karns",
+    "email": "jason@testdouble.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linemanjs/lineman-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/linemanjs/lineman-typescript/issues"
+  },
+  "dependencies": {
+    "grunt-typescript": "~0.3.6"
+  },
+  "peerDependencies": {
+    "lineman": ">= 0.27.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-release": "^0.7.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://testdouble.mit-license.org"
+    }
+  ],
+  "keywords": [
+    "lineman",
+    "linemanplugin",
+    "typescript"
+  ]
+}
