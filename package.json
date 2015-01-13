@@ -1,7 +1,7 @@
 {
   "name": "lineman-typescript",
   "description": "TypeScript plugin for Lineman, using grunt-typescript",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/linemanjs/lineman-typescript",
   "author": {
     "name": "Jason Karns",
