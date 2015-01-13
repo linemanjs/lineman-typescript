@@ -26,6 +26,8 @@ module.exports = (lineman) ->
     concat_sourcemap:
       js:
         src: app.concat_sourcemap.js.src.concat("<%= files.typescript.generated %>")
+      spec:
+        src: app.concat_sourcemap.spec.src.concat("<%= files.typescript.generatedSpec %>")
 
     watch:
       typescript:
